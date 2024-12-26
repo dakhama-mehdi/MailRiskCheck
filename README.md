@@ -8,8 +8,6 @@ It focuses on evaluating how well anti-spam solutions and sandboxing technologie
 The main goal of this project is to test the resilience of email security solutions by sending a BMP image containing a compiled file and a tool like Mimikatz.  
 The test aims to check if the system can detect these hidden threats and block them effectively.
 
-## Feature
-
 | **Feature**                  | **Description**                                                                                     |
 |------------------------------|-----------------------------------------------------------------------------------------------------|
 | **Testing Email Security**   | The project simulates the delivery of malicious content via email.                                   |
