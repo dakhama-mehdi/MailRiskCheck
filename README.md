@@ -2,12 +2,13 @@
 
 MailRiskCheck is a security audit project designed to assess the effectiveness of email security systems.
 It focuses on evaluating how well anti-spam solutions and sandboxing technologies detect and handle potentially malicious email attachments, without involving the sending of malicious or obfuscated files.  
-The goal is to test the ability of security systems to detect harmful files through sandbox environments, with no code execution involved.
 
 ## Purpose
 
 The main goal of this project is to test the resilience of email security solutions by sending a BMP image containing a compiled file and a tool like Mimikatz.  
 The test aims to check if the system can detect these hidden threats and block them effectively.
+
+## Feature
 
 | **Feature**                  | **Description**                                                                                     |
 |------------------------------|-----------------------------------------------------------------------------------------------------|
