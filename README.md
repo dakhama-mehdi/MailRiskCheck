@@ -30,6 +30,6 @@ Mimikatz in offset : 1883984
 ## To Do
 
 - Feel free to contribute!  
-  Additional tips and features will be added soon.  
-  If you have suggestions or improvements, don't hesitate to open an **issue** or submit a **pull request**.
+- Additional tips and features will be added soon.  
+- If you have suggestions or improvements, don't hesitate to open an **issue** or submit a **pull request**.
 
