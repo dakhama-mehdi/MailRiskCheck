@@ -23,3 +23,13 @@ The test aims to check if the system can detect these hidden threats and block t
 - **SOC and EDR Reactivity**: After receiving the email, attempt to save and open the image to test the reactivity of your Security Operations Center (SOC) and Endpoint Detection and Response (EDR) solutions.
 - **VirusTotal Check**: Verify the image on VirusTotal to see if any engines detect the hidden payload.
 
+![virustotal](https://github.com/user-attachments/assets/f978f2c4-2e81-44ca-bb1e-9b5baac374f4)
+
+Mimikatz in offset : 1883984
+
+## To Do
+
+- Feel free to contribute!  
+  Additional tips and features will be added soon.  
+  If you have suggestions or improvements, don't hesitate to open an **issue** or submit a **pull request**.
+
